@@ -1,1 +1,2 @@
-Goodbye
+Goodbye world
+Goodbye all
